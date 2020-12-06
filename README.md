@@ -9,6 +9,8 @@ This project is the cumulative effort of the following over the weekend of Decem
 * Paul Shin
 * Sai Coumar
 
+![Sample UI screenshot](https://github.com/saiccoumar/PMOI/blob/main/sample.png?raw=true)
+
 # Running PMOI
 Our release of PMOI comes with an already pre-trained model `masknet2.h5`. Our backend runs on Python, more specifically built on Python 3.8.6 (any issues that may arise, such as TensorFlow, may be the result of incompabitilities).
 
