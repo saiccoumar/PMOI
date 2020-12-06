@@ -6,7 +6,6 @@ This project is the cumulative effort of the following over the weekend of Decem
 * Albert Lua
 * Daniel Trager
 * Jason Leong
-* Paul Shin
 * Sai Coumar
 
 ![Sample UI screenshot](https://github.com/saiccoumar/PMOI/blob/main/sample.png?raw=true)
