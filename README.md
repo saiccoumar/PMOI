@@ -28,7 +28,7 @@ The following describes how PMOI runs:
 
 To terminate the process, go to command prompt and `Ctrl+C`.
 
-You may face issues with running PMOI and modules are not found. Change python commands in `PMOI.bat` to python3 as you may have multiple installations of Python.
+You may face issues with running PMOI and modules are not found. Change `python` commands in `PMOI.bat` to `python3` as you may have multiple installations of Python.
 
 ### MacOS
 (Instructions pending)
