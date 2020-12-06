@@ -25,7 +25,10 @@ The following describes how PMOI runs:
 2. Installs PIP
 3. Runs `app.py` on Python
 4. Launches `localhost:8000` for UI
+
 To terminate the process, go to command prompt and `Ctrl+C`.
+
+You may face issues with running PMOI and modules are not found. Change python commands in `PMOI.bat` to python3 as you may have multiple installations of Python.
 
 ### MacOS
 (Instructions pending)
