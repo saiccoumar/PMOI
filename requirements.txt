@@ -1,0 +1,6 @@
+tensorflow==2.2.0
+imutils
+numpy
+opencv-python
+scipy
+flask==1.1.2
